@@ -1,0 +1,9 @@
+.env
+node_modules/
+dist/
+server/uploads/*
+.DS_Store
+.vscode/
+
+npm-debug.log*
+*.log
