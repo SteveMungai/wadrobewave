@@ -14,7 +14,7 @@
 
 
 ## Getting started
-## Prerequisites
+### Prerequisites
 
 - Node.js (18+, works fine with Node 24)
 - MongoDB (Atlas)
